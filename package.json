@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/faker": "^6.6.9",
+    "axios": "^0.27.2",
+    "faker": "^6.6.6"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
